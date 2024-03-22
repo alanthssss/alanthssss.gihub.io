@@ -9,7 +9,7 @@
 ## [Python](./python/README.md)
 
 - [Startup](./python/startup/SUMMARY.md)
-- Virtual Environment
+- [Virtual Environment](./python/startup/SUMMARY.md)
 
 ## Docker
 

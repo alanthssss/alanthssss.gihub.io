@@ -47,7 +47,7 @@ pip3 install 包名称
 * 当前使用的Python解释器的路径
 * 当前运行的Python程序的路径
 
-  ![](.gitbook/assets/ping-mu-kuai-zhao-20180407-xia-wu-9.29.13.png)
+  ![path](.gitbook/assets/ping-mu-kuai-zhao-20180407-xia-wu-9.29.13.png)
 
 #### 终端/命令行/控制台中
 
@@ -61,11 +61,10 @@ pip3 install 包名称
 
   此处要求区分以下两条命令：
 
-  * `sys.executable`查看解释器路径 
+  * `sys.executable`查看解释器路径
   * `sys.path`查看包路径
 
 ### 3.重定向
 
 * `>`将输出结果写在目标文件中，新建或覆盖目标文件
 * `>>`将输出结果追加在目标文件末尾
-
