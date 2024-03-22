@@ -6,9 +6,9 @@
   - [Python](#python)
   - [Docker](#docker)
 
-## Python
+## [Python](./python/README.md)
 
-- Startup
+- [Startup](./python/startup/SUMMARY.md)
 - Virtual Environment
 
 ## Docker
