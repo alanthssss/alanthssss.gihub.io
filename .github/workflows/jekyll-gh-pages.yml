@@ -29,7 +29,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Rename `README.md` to `index.md`
-        run: mv README.md index.md
+        run: cat README.md > index.md
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
