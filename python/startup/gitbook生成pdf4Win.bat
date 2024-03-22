@@ -1,2 +1,0 @@
-gitbook pdf
-system("pause")
